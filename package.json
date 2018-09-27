@@ -1,0 +1,22 @@
+{
+  "name": "ngxadmintester",
+  "version": "1.0.0",
+  "description": "e2e tests for http://akveo.com/ngx-admin",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "protractor": "^5.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeria20/ngxAdminTester.git"
+  },
+  "author": "Valeria20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeria20/ngxAdminTester/issues"
+  },
+  "homepage": "https://github.com/valeria20/ngxAdminTester#readme"
+}
